@@ -1,1 +1,1 @@
-# crazy-shooter2
+# crazy-shooter
